@@ -1,0 +1,14 @@
+.form-box {
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    border: 5px solid #fff;
+    max-width: 80%;
+    margin: -20px auto 0;
+    position: relative;
+    z-index: 2;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

@@ -1,0 +1,26 @@
+.why-section {
+  display: flex !important;
+  flex-direction: row;
+}
+.why-img {
+  width: 50%;
+}
+.why-img img {
+  height: 550px;
+  width: 100%;
+}
+
+.why-text-section {
+  background-color: #313041;
+  width: 50%;
+  color: #fff;
+  padding: 64px;
+  line-height: 30px;
+}
+.why-text-section h4 {
+  font-family: "Satisfy", cursive;
+  color: #d2691e;
+}
+.why-text-section p {
+  color: lightslategrey;
+}

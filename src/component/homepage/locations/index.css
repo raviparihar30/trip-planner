@@ -1,0 +1,23 @@
+.location-section {
+  display: flex;
+  flex-direction: column;
+  margin: 40px 12px;
+}
+.location-card-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.location-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  color: black;
+}
+.location-section .heading {
+  font-family: unset;
+
+  color: chocolate;
+}

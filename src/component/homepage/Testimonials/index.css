@@ -1,0 +1,14 @@
+.testimonial-section {
+  display: flex;
+  flex-direction: column;
+  padding-left: 25px;
+}
+.testimonial-text {
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  color: black;
+}
+.testimonial-text .heading {
+  font-family: unset;
+  color: #d2691e;
+}
